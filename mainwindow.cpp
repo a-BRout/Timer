@@ -45,7 +45,7 @@ void MainWindow::handleButton_stop()
 
 void MainWindow::handleButton_sound()
 {
-
+    //play(aani.wav)
 }
 
 
